@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Which of the following scripting languages is commonly used for web development?",
+        "options": ["Python", "C++", "JavaScript", "Java"]
+    },
+    {
+        "question": "What scripting language is often used for system administration and automation tasks in Unix-like operating systems?",
+        "options": ["Perl", "Ruby", "PHP", "Swift"]
+    },
+    {
+        "question": "Which scripting language is widely used for data analysis and scientific computing?",
+        "options": ["Ruby", "JavaScript", "Python", "Bash"]
+    },
+    {
+        "question": "What scripting language is commonly used for web scraping and automation tasks?",
+        "options": ["Perl", "Python", "PHP", "Ruby"]
+    },
+    {
+        "question": "What scripting language is often used for game development and prototyping?",
+        "options": ["Python", "Lua", "JavaScript", "Ruby"]
+    },
+    {
+        "question": "Which scripting language is commonly used for server-side programming in web development?",
+        "options": ["Python", "JavaScript", "Ruby", "PHP"]
+    },
+    {
+        "question": "What scripting language is often used for test automation and scripting tasks in Windows environments?",
+        "options": ["Python", "Perl", "Ruby", "PowerShell"]
+    },
+    {
+        "question": "Which scripting language is known for its simplicity and readability, often referred to as a 'glue' language?",
+        "options": ["Ruby", "JavaScript", "Python", "PHP"]
+    },
+    {
+        "question": "What scripting language is commonly used for creating dynamic and interactive web pages?",
+        "options": ["Python", "JavaScript", "Perl", "Ruby"]
+    },
+    {
+        "question": "Which scripting language is commonly used for text processing and manipulation tasks?",
+        "options": ["Python", "JavaScript", "Perl", "Ruby"]
+    },
+    {
+        "question": "What scripting language is often used for creating cross-platform desktop applications?",
+        "options": ["Python", "JavaScript", "Perl", "Ruby"]
+    },
+    {
+        "question": "Which scripting language is commonly used for server-side scripting in conjunction with HTML for web development?",
+        "options": ["Python", "JavaScript", "PHP", "Ruby"]
+    },
+    {
+        "question": "What scripting language is known for its use in rapid prototyping, web development, and artificial intelligence?",
+        "options": ["Python", "Perl", "JavaScript", "Ruby"]
+    }
+]
